@@ -14,16 +14,6 @@ export type Project = {
 /** Dépôts publics listés sur le profil GitHub d’Alexis. */
 export const projects: Project[] = [
   {
-    id: 'portefolio-site',
-    title: 'Portefolio',
-    description:
-      'Ce portfolio : React, Vite, TypeScript, hero WebGL, thèmes et publication GitHub Pages.',
-    tags: ['React', 'TypeScript', 'Vite', 'Three.js'],
-    image: '/favicon.svg',
-    demoUrl: 'https://alexismathieu-ui.github.io/Portefolio/',
-    repoUrl: repo('Portefolio'),
-  },
-  {
     id: 'html-project',
     title: 'HTML-Project-And-Test',
     description:
