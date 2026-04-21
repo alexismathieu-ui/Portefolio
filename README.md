@@ -15,7 +15,7 @@ Mon portfolio met en avant :
 
 ## Voir le site en ligne
 
-[Accéder au portfolio](https://alexismathieu-ui.github.io/Portefolio/)
+[Accéder au portfolio](https://alexismathieu-ui.github.io/Portfolio/)
 
 ## Objectif
 

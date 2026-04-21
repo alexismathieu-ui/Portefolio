@@ -2,10 +2,10 @@
   "name": "portefolio",
   "private": true,
   "version": "1.0.0",
-  "homepage": "https://alexismathieu-ui.github.io/Portefolio/",
+  "homepage": "https://alexismathieu-ui.github.io/Portfolio/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/alexismathieu-ui/Portefolio.git"
+    "url": "https://github.com/alexismathieu-ui/Portfolio.git"
   },
   "type": "module",
   "scripts": {
