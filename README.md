@@ -23,7 +23,7 @@ Ce projet me permet de centraliser mon travail, de valoriser mes réalisations e
 
 ## Profil
 
-Je suis développeur web, orienté front-end, avec une attention particulière portée a l'interface utilisateur, a la qualite visuelle et a l'experience utilisateur.
+Je suis développeur fullstack et modélisateur 3D, je fait de mon mieux pour que j'ai un code claire et optimiser et très curieux sur beaucoup de choses
 
 ## Contact
 
